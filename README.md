@@ -81,3 +81,5 @@ paramMap : Observable<ParamMap>
 queryParamMap : Observable<ParamMap>
 toString() : string
 ```
+
+来源https://angular.cn/docs/ts/latest/api/router/index/ActivatedRoute-interface.html
